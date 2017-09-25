@@ -32,7 +32,7 @@ while data != "":
 
 
 
-# 停止数据流
+# 停止数据流（）
 stream.stop_stream()
 stream.close()
 

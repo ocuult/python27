@@ -22,7 +22,7 @@ aipNlp = AipNlp(APP_ID, API_KEY, SECRET_KEY)
 # 汽车分类
 option = {'type': 1}
 
-# 调用情感观点抽取接口
+# 调用情感观点抽取接口（）
 result4 = aipNlp.commentTag('如家很便宜', option)
 
 
