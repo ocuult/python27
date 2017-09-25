@@ -1,9 +1,6 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8-*-
 
-# created by Huang Lu
-# 27/08/2016 17:05:45
-# Department of EE, Tsinghua Univ.
 
 import cv2
 import numpy as np
